@@ -1,0 +1,868 @@
+Average_time of New-Barr-Log (n,k) --> (16,,50)
+Thread 1 0.0685248
+Thread 2 0.0693819
+Thread 3 0.0676933
+Thread 4 0.0676597
+Thread 5 0.0690093
+Thread 6 0.0691692
+Thread 7 0.0692406
+Thread 8 0.0703394
+Thread 9 0.0674253
+Thread 10 0.0701826
+Thread 11 0.0684776
+Thread 12 0.0683772
+Thread 13 0.0684408
+Thread 14 0.0700799
+Thread 15 0.068422
+Thread 16 0.068505
+All Threads 3.4404
+
+Average_time of Pthread-Barr-Log (n,k) --> (16,,50)
+Thread 1 0.00567929
+Thread 2 0.00510052
+Thread 3 0.00662108
+Thread 4 0.00664625
+Thread 5 0.006336
+Thread 6 0.00590813
+Thread 7 0.00581411
+Thread 8 0.00669645
+Thread 9 0.00576508
+Thread 10 0.00657245
+Thread 11 0.00656912
+Thread 12 0.00570944
+Thread 13 0.0064896
+Thread 14 0.00491303
+Thread 15 0.00576286
+Thread 16 0.00579621
+All Threads 0.301186
+
+Average_time of New-Barr-Log (n,k) --> (16,,60)
+Thread 1 0.0718607
+Thread 2 0.070618
+Thread 3 0.071765
+Thread 4 0.0727106
+Thread 5 0.0719395
+Thread 6 0.0716615
+Thread 7 0.0720054
+Thread 8 0.0724173
+Thread 9 0.0731128
+Thread 10 0.0732557
+Thread 11 0.0717195
+Thread 12 0.0732329
+Thread 13 0.0733105
+Thread 14 0.0711365
+Thread 15 0.0724755
+Thread 16 0.0718206
+All Threads 4.33141
+
+Average_time of Pthread-Barr-Log (n,k) --> (16,,60)
+Thread 1 0.0123715
+Thread 2 0.0123579
+Thread 3 0.0132828
+Thread 4 0.0125701
+Thread 5 0.011224
+Thread 6 0.011338
+Thread 7 0.0106116
+Thread 8 0.0111121
+Thread 9 0.0123304
+Thread 10 0.0118885
+Thread 11 0.0131259
+Thread 12 0.0123792
+Thread 13 0.0118782
+Thread 14 0.0134735
+Thread 15 0.0110404
+Thread 16 0.0115421
+All Threads 0.721973
+
+Average_time of New-Barr-Log (n,k) --> (16,,70)
+Thread 1 0.0661688
+Thread 2 0.0685448
+Thread 3 0.0672981
+Thread 4 0.0677943
+Thread 5 0.0671762
+Thread 6 0.0673541
+Thread 7 0.0664482
+Thread 8 0.067787
+Thread 9 0.0671997
+Thread 10 0.0660611
+Thread 11 0.0684768
+Thread 12 0.0668517
+Thread 13 0.066784
+Thread 14 0.0683533
+Thread 15 0.0667605
+Thread 16 0.0675406
+All Threads 4.71012
+
+Average_time of Pthread-Barr-Log (n,k) --> (16,,70)
+Thread 1 0.0114445
+Thread 2 0.0116045
+Thread 3 0.0121789
+Thread 4 0.0119892
+Thread 5 0.01197
+Thread 6 0.0111004
+Thread 7 0.011015
+Thread 8 0.0122517
+Thread 9 0.0109428
+Thread 10 0.0117475
+Thread 11 0.0104558
+Thread 12 0.0110692
+Thread 13 0.011265
+Thread 14 0.0117169
+Thread 15 0.00899916
+Thread 16 0.0116065
+All Threads 0.793436
+
+Average_time of New-Barr-Log (n,k) --> (16,,80)
+Thread 1 0.0664333
+Thread 2 0.0656772
+Thread 3 0.0653973
+Thread 4 0.0658744
+Thread 5 0.0645894
+Thread 6 0.0645006
+Thread 7 0.0642263
+Thread 8 0.0659628
+Thread 9 0.0675952
+Thread 10 0.0661518
+Thread 11 0.0651566
+Thread 12 0.0653307
+Thread 13 0.0680218
+Thread 14 0.0661953
+Thread 15 0.066757
+Thread 16 0.0669177
+All Threads 5.27394
+
+Average_time of Pthread-Barr-Log (n,k) --> (16,,80)
+Thread 1 0.00674031
+Thread 2 0.00543491
+Thread 3 0.00693506
+Thread 4 0.00676488
+Thread 5 0.00725897
+Thread 6 0.00673551
+Thread 7 0.00732441
+Thread 8 0.00749959
+Thread 9 0.00738427
+Thread 10 0.00723592
+Thread 11 0.00731569
+Thread 12 0.00567915
+Thread 13 0.0058107
+Thread 14 0.00677981
+Thread 15 0.00688475
+Thread 16 0.00735574
+All Threads 0.545698
+
+Average_time of New-Barr-Log (n,k) --> (16,,90)
+Thread 1 0.0442986
+Thread 2 0.0426982
+Thread 3 0.0431681
+Thread 4 0.0423806
+Thread 5 0.0436753
+Thread 6 0.0443125
+Thread 7 0.0441107
+Thread 8 0.0451516
+Thread 9 0.0432684
+Thread 10 0.0444808
+Thread 11 0.0447621
+Thread 12 0.0447861
+Thread 13 0.0444052
+Thread 14 0.0441456
+Thread 15 0.0427574
+Thread 16 0.0443578
+All Threads 3.95302
+
+Average_time of Pthread-Barr-Log (n,k) --> (16,,90)
+Thread 1 0.00811344
+Thread 2 0.00873835
+Thread 3 0.00719141
+Thread 4 0.00798374
+Thread 5 0.00828949
+Thread 6 0.0087238
+Thread 7 0.00810945
+Thread 8 0.00813388
+Thread 9 0.00820966
+Thread 10 0.00809649
+Thread 11 0.00860949
+Thread 12 0.00817436
+Thread 13 0.00764218
+Thread 14 0.00824925
+Thread 15 0.00719285
+Thread 16 0.0080347
+All Threads 0.728396
+
+Average_time of New-Barr-Log (n,k) --> (16,,100)
+Thread 1 0.0562297
+Thread 2 0.0553495
+Thread 3 0.0566102
+Thread 4 0.0564151
+Thread 5 0.0561977
+Thread 6 0.0563406
+Thread 7 0.0562095
+Thread 8 0.0558536
+Thread 9 0.0565452
+Thread 10 0.0566496
+Thread 11 0.0558862
+Thread 12 0.0553347
+Thread 13 0.0570963
+Thread 14 0.0553229
+Thread 15 0.0559598
+Thread 16 0.0554546
+All Threads 5.60909
+
+Average_time of Pthread-Barr-Log (n,k) --> (16,,100)
+Thread 1 0.00899742
+Thread 2 0.00858147
+Thread 3 0.00909789
+Thread 4 0.00893872
+Thread 5 0.00898803
+Thread 6 0.00891241
+Thread 7 0.00954365
+Thread 8 0.00900465
+Thread 9 0.00900813
+Thread 10 0.00813872
+Thread 11 0.00894782
+Thread 12 0.00762486
+Thread 13 0.0090743
+Thread 14 0.0080383
+Thread 15 0.00868031
+Thread 16 0.00829191
+All Threads 0.874179
+
+Average_time of New-Barr-Log (n,k) --> (2,,70)
+Thread 1 6.49011e-05
+Thread 2 5.45258e-05
+All Threads 0.00417994
+
+Average_time of Pthread-Barr-Log (n,k) --> (2,,70)
+Thread 1 8.46413e-05
+Thread 2 8.5878e-05
+All Threads 0.00596818
+
+Average_time of New-Barr-Log (n,k) --> (4,,70)
+Thread 1 0.000176945
+Thread 2 0.000177815
+Thread 3 0.000158762
+Thread 4 0.000167334
+All Threads 0.011915
+
+Average_time of Pthread-Barr-Log (n,k) --> (4,,70)
+Thread 1 0.000174346
+Thread 2 0.000797261
+Thread 3 0.000809362
+Thread 4 0.000778905
+All Threads 0.0447978
+
+Average_time of New-Barr-Log (n,k) --> (6,,70)
+Thread 1 0.00134311
+Thread 2 0.00133843
+Thread 3 0.00133409
+Thread 4 0.00130104
+Thread 5 0.0012256
+Thread 6 0.00125647
+All Threads 0.0909852
+
+Average_time of Pthread-Barr-Log (n,k) --> (6,,70)
+Thread 1 0.000883925
+Thread 2 0.000849811
+Thread 3 0.000830588
+Thread 4 0.000784345
+Thread 5 0.000271487
+Thread 6 0.000857746
+All Threads 0.0522422
+
+Average_time of New-Barr-Log (n,k) --> (8,,70)
+Thread 1 0.0074511
+Thread 2 0.00807035
+Thread 3 0.00754663
+Thread 4 0.00811472
+Thread 5 0.00811708
+Thread 6 0.00772625
+Thread 7 0.00746114
+Thread 8 0.00694235
+All Threads 0.537509
+
+Average_time of Pthread-Barr-Log (n,k) --> (8,,70)
+Thread 1 0.00346814
+Thread 2 0.00337958
+Thread 3 0.00361588
+Thread 4 0.00348648
+Thread 5 0.00277641
+Thread 6 0.00406903
+Thread 7 0.00386093
+Thread 8 0.00395359
+All Threads 0.250338
+
+Average_time of New-Barr-Log (n,k) --> (10,,70)
+Thread 1 0.0130344
+Thread 2 0.0143332
+Thread 3 0.0147551
+Thread 4 0.013636
+Thread 5 0.0135957
+Thread 6 0.0141683
+Thread 7 0.0138468
+Thread 8 0.0141103
+Thread 9 0.0149314
+Thread 10 0.0149323
+All Threads 0.989404
+
+Average_time of Pthread-Barr-Log (n,k) --> (10,,70)
+Thread 1 0.00357643
+Thread 2 0.00447821
+Thread 3 0.00508073
+Thread 4 0.00448791
+Thread 5 0.00506489
+Thread 6 0.00457346
+Thread 7 0.0038686
+Thread 8 0.0040206
+Thread 9 0.00525339
+Thread 10 0.00441623
+All Threads 0.313743
+
+Average_time of New-Barr-Log (n,k) --> (12,,70)
+Thread 1 0.0338778
+Thread 2 0.0335477
+Thread 3 0.0331817
+Thread 4 0.0333952
+Thread 5 0.034246
+Thread 6 0.0334704
+Thread 7 0.0344935
+Thread 8 0.0342035
+Thread 9 0.0347369
+Thread 10 0.0339952
+Thread 11 0.0321732
+Thread 12 0.032776
+All Threads 2.35723
+
+Average_time of Pthread-Barr-Log (n,k) --> (12,,70)
+Thread 1 0.00579993
+Thread 2 0.00527602
+Thread 3 0.00586772
+Thread 4 0.00475622
+Thread 5 0.00478683
+Thread 6 0.00529586
+Thread 7 0.00514246
+Thread 8 0.00477572
+Thread 9 0.00506358
+Thread 10 0.00452498
+Thread 11 0.0052297
+Thread 12 0.00572834
+All Threads 0.36311
+
+Average_time of New-Barr-Log (n,k) --> (14,,70)
+Thread 1 0.035539
+Thread 2 0.0355143
+Thread 3 0.0354598
+Thread 4 0.0355535
+Thread 5 0.0367374
+Thread 6 0.0367749
+Thread 7 0.0353506
+Thread 8 0.036617
+Thread 9 0.0362361
+Thread 10 0.0367242
+Thread 11 0.0354718
+Thread 12 0.0361357
+Thread 13 0.0362019
+Thread 14 0.0359962
+All Threads 2.52156
+
+Average_time of Pthread-Barr-Log (n,k) --> (14,,70)
+Thread 1 0.0113595
+Thread 2 0.0106509
+Thread 3 0.0112192
+Thread 4 0.0105034
+Thread 5 0.0105154
+Thread 6 0.0105991
+Thread 7 0.0108002
+Thread 8 0.0111446
+Thread 9 0.00982813
+Thread 10 0.009828
+Thread 11 0.0106284
+Thread 12 0.0104802
+Thread 13 0.0116719
+Thread 14 0.0117527
+All Threads 0.754908
+
+Average_time of New-Barr-Log (n,k) --> (16,,70)
+Thread 1 0.0842917
+Thread 2 0.0850386
+Thread 3 0.0831816
+Thread 4 0.0831592
+Thread 5 0.0844362
+Thread 6 0.0829915
+Thread 7 0.0826193
+Thread 8 0.0842635
+Thread 9 0.0843437
+Thread 10 0.0827552
+Thread 11 0.0854186
+Thread 12 0.0858138
+Thread 13 0.0848855
+Thread 14 0.0843633
+Thread 15 0.0829728
+Thread 16 0.0831962
+All Threads 5.87882
+
+Average_time of Pthread-Barr-Log (n,k) --> (16,,70)
+Thread 1 0.00943031
+Thread 2 0.00883945
+Thread 3 0.00994225
+Thread 4 0.0105304
+Thread 5 0.00997347
+Thread 6 0.00990277
+Thread 7 0.00952837
+Thread 8 0.0100229
+Thread 9 0.0104727
+Thread 10 0.00934426
+Thread 11 0.00934339
+Thread 12 0.0093465
+Thread 13 0.00886682
+Thread 14 0.00985923
+Thread 15 0.00997127
+Thread 16 0.00984911
+All Threads 0.679102
+
+Average_time of New-Barr-Log (n,k) --> (18,,70)
+Thread 1 0.0878438
+Thread 2 0.0865933
+Thread 3 0.0858954
+Thread 4 0.0879249
+Thread 5 0.0876298
+Thread 6 0.0871811
+Thread 7 0.0843352
+Thread 8 0.0871378
+Thread 9 0.0872923
+Thread 10 0.0859831
+Thread 11 0.0852495
+Thread 12 0.0857536
+Thread 13 0.0868004
+Thread 14 0.0857149
+Thread 15 0.0847324
+Thread 16 0.0848434
+Thread 17 0.0880194
+Thread 18 0.0882579
+All Threads 6.05573
+
+Average_time of Pthread-Barr-Log (n,k) --> (18,,70)
+Thread 1 0.0097833
+Thread 2 0.00905892
+Thread 3 0.00908037
+Thread 4 0.0098886
+Thread 5 0.00875584
+Thread 6 0.00982568
+Thread 7 0.0108984
+Thread 8 0.010132
+Thread 9 0.00796754
+Thread 10 0.0110151
+Thread 11 0.00984318
+Thread 12 0.0103521
+Thread 13 0.00979291
+Thread 14 0.0104046
+Thread 15 0.0109786
+Thread 16 0.0101426
+Thread 17 0.0104099
+Thread 18 0.0103753
+All Threads 0.694963
+
+Average_time of New-Barr-Log (n,k) --> (20,,70)
+Thread 1 0.0728908
+Thread 2 0.0767574
+Thread 3 0.0747211
+Thread 4 0.0736677
+Thread 5 0.0747873
+Thread 6 0.0744279
+Thread 7 0.0728216
+Thread 8 0.075308
+Thread 9 0.0730151
+Thread 10 0.0734637
+Thread 11 0.0753617
+Thread 12 0.0745555
+Thread 13 0.0753129
+Thread 14 0.0734817
+Thread 15 0.0723613
+Thread 16 0.0724826
+Thread 17 0.0756953
+Thread 18 0.0736469
+Thread 19 0.0736575
+Thread 20 0.0751865
+All Threads 5.19261
+
+Average_time of Pthread-Barr-Log (n,k) --> (20,,70)
+Thread 1 0.0102703
+Thread 2 0.0095709
+Thread 3 0.00949436
+Thread 4 0.00969657
+Thread 5 0.00901706
+Thread 6 0.0101656
+Thread 7 0.0101836
+Thread 8 0.010243
+Thread 9 0.00976279
+Thread 10 0.00898712
+Thread 11 0.00854223
+Thread 12 0.00958484
+Thread 13 0.010116
+Thread 14 0.00917133
+Thread 15 0.00792946
+Thread 16 0.00976085
+Thread 17 0.0101349
+Thread 18 0.00909115
+Thread 19 0.0102894
+Thread 20 0.0102083
+All Threads 0.672769
+
+Average_time of New-Barr-Log (n,k) --> (22,,70)
+Thread 1 0.0837167
+Thread 2 0.0862396
+Thread 3 0.0870538
+Thread 4 0.0856129
+Thread 5 0.0868736
+Thread 6 0.0842568
+Thread 7 0.0856704
+Thread 8 0.0865318
+Thread 9 0.086235
+Thread 10 0.086671
+Thread 11 0.0849507
+Thread 12 0.0849842
+Thread 13 0.0841209
+Thread 14 0.0869754
+Thread 15 0.0837202
+Thread 16 0.0856412
+Thread 17 0.0840485
+Thread 18 0.0879642
+Thread 19 0.0867088
+Thread 20 0.0871946
+Thread 21 0.0874868
+Thread 22 0.0856668
+All Threads 6.0083
+
+Average_time of Pthread-Barr-Log (n,k) --> (22,,70)
+Thread 1 0.0111605
+Thread 2 0.0118332
+Thread 3 0.0123872
+Thread 4 0.0123331
+Thread 5 0.0117396
+Thread 6 0.0104914
+Thread 7 0.0118448
+Thread 8 0.0110967
+Thread 9 0.011684
+Thread 10 0.010918
+Thread 11 0.0119167
+Thread 12 0.0116839
+Thread 13 0.0123613
+Thread 14 0.01215
+Thread 15 0.0112881
+Thread 16 0.0117206
+Thread 17 0.0123277
+Thread 18 0.0124449
+Thread 19 0.0116595
+Thread 20 0.0104825
+Thread 21 0.012346
+Thread 22 0.0108616
+All Threads 0.816873
+
+Average_time of New-Barr-Log (n,k) --> (24,,70)
+Thread 1 0.107045
+Thread 2 0.108365
+Thread 3 0.108477
+Thread 4 0.104239
+Thread 5 0.105838
+Thread 6 0.108336
+Thread 7 0.106611
+Thread 8 0.107327
+Thread 9 0.107551
+Thread 10 0.108665
+Thread 11 0.106928
+Thread 12 0.107388
+Thread 13 0.10714
+Thread 14 0.106299
+Thread 15 0.108971
+Thread 16 0.108614
+Thread 17 0.107163
+Thread 18 0.109104
+Thread 19 0.108874
+Thread 20 0.106951
+Thread 21 0.106806
+Thread 22 0.108471
+Thread 23 0.108384
+Thread 24 0.107705
+All Threads 7.52866
+
+Average_time of Pthread-Barr-Log (n,k) --> (24,,70)
+Thread 1 0.0150271
+Thread 2 0.0146251
+Thread 3 0.0158198
+Thread 4 0.0153818
+Thread 5 0.0151411
+Thread 6 0.0158272
+Thread 7 0.0133472
+Thread 8 0.0157824
+Thread 9 0.0164992
+Thread 10 0.0146196
+Thread 11 0.0147826
+Thread 12 0.0158107
+Thread 13 0.0151919
+Thread 14 0.0158799
+Thread 15 0.0150657
+Thread 16 0.0156191
+Thread 17 0.0164475
+Thread 18 0.0144235
+Thread 19 0.0157957
+Thread 20 0.0159644
+Thread 21 0.0146783
+Thread 22 0.0152387
+Thread 23 0.0151451
+Thread 24 0.0163285
+All Threads 1.07462
+
+Average_time of New-Barr-Log (n,k) --> (26,,70)
+Thread 1 0.108501
+Thread 2 0.110307
+Thread 3 0.108028
+Thread 4 0.110076
+Thread 5 0.108024
+Thread 6 0.110958
+Thread 7 0.109769
+Thread 8 0.110499
+Thread 9 0.110531
+Thread 10 0.107192
+Thread 11 0.108504
+Thread 12 0.109204
+Thread 13 0.11041
+Thread 14 0.110832
+Thread 15 0.109953
+Thread 16 0.10944
+Thread 17 0.111359
+Thread 18 0.10801
+Thread 19 0.107622
+Thread 20 0.10892
+Thread 21 0.109706
+Thread 22 0.110402
+Thread 23 0.110525
+Thread 24 0.109088
+Thread 25 0.108053
+Thread 26 0.107861
+All Threads 7.65631
+
+Average_time of Pthread-Barr-Log (n,k) --> (26,,70)
+Thread 1 0.0119452
+Thread 2 0.01172
+Thread 3 0.0122872
+Thread 4 0.0124931
+Thread 5 0.0120121
+Thread 6 0.01242
+Thread 7 0.0107715
+Thread 8 0.0125529
+Thread 9 0.0118058
+Thread 10 0.0126198
+Thread 11 0.0116171
+Thread 12 0.0105674
+Thread 13 0.0120323
+Thread 14 0.0121641
+Thread 15 0.0124424
+Thread 16 0.0120011
+Thread 17 0.0124218
+Thread 18 0.0119685
+Thread 19 0.0111224
+Thread 20 0.0115865
+Thread 21 0.0126049
+Thread 22 0.0116954
+Thread 23 0.00928601
+Thread 24 0.0125886
+Thread 25 0.0112202
+Thread 26 0.0124679
+All Threads 0.830346
+
+Average_time of New-Barr-Log (n,k) --> (28,,70)
+Thread 1 0.15289
+Thread 2 0.153031
+Thread 3 0.150042
+Thread 4 0.152411
+Thread 5 0.151506
+Thread 6 0.150805
+Thread 7 0.151934
+Thread 8 0.151695
+Thread 9 0.15234
+Thread 10 0.15167
+Thread 11 0.15179
+Thread 12 0.154169
+Thread 13 0.152462
+Thread 14 0.151982
+Thread 15 0.151298
+Thread 16 0.149
+Thread 17 0.151516
+Thread 18 0.151376
+Thread 19 0.152379
+Thread 20 0.152459
+Thread 21 0.153937
+Thread 22 0.151747
+Thread 23 0.152768
+Thread 24 0.153488
+Thread 25 0.147122
+Thread 26 0.154289
+Thread 27 0.151305
+Thread 28 0.150769
+All Threads 10.6304
+
+Average_time of Pthread-Barr-Log (n,k) --> (28,,70)
+Thread 1 0.0136641
+Thread 2 0.0131152
+Thread 3 0.0125838
+Thread 4 0.0130713
+Thread 5 0.0131963
+Thread 6 0.0131667
+Thread 7 0.0132513
+Thread 8 0.012437
+Thread 9 0.0129401
+Thread 10 0.012136
+Thread 11 0.0123972
+Thread 12 0.0113501
+Thread 13 0.011819
+Thread 14 0.0118791
+Thread 15 0.0129375
+Thread 16 0.0131846
+Thread 17 0.0135577
+Thread 18 0.0130299
+Thread 19 0.0138189
+Thread 20 0.0136031
+Thread 21 0.0117377
+Thread 22 0.0132838
+Thread 23 0.0126345
+Thread 24 0.0137007
+Thread 25 0.0130502
+Thread 26 0.0123809
+Thread 27 0.0135199
+Thread 28 0.013213
+All Threads 0.901649
+
+Average_time of New-Barr-Log (n,k) --> (30,,70)
+Thread 1 0.134174
+Thread 2 0.134046
+Thread 3 0.135458
+Thread 4 0.135985
+Thread 5 0.136194
+Thread 6 0.134858
+Thread 7 0.136338
+Thread 8 0.133984
+Thread 9 0.135969
+Thread 10 0.134368
+Thread 11 0.136604
+Thread 12 0.133911
+Thread 13 0.135416
+Thread 14 0.135471
+Thread 15 0.135794
+Thread 16 0.136339
+Thread 17 0.134515
+Thread 18 0.134559
+Thread 19 0.13253
+Thread 20 0.134939
+Thread 21 0.131418
+Thread 22 0.134035
+Thread 23 0.136172
+Thread 24 0.135842
+Thread 25 0.134445
+Thread 26 0.136308
+Thread 27 0.134149
+Thread 28 0.135728
+Thread 29 0.135695
+Thread 30 0.136118
+All Threads 9.45318
+
+Average_time of Pthread-Barr-Log (n,k) --> (30,,70)
+Thread 1 0.0206742
+Thread 2 0.02052
+Thread 3 0.0196984
+Thread 4 0.0199522
+Thread 5 0.0183512
+Thread 6 0.01938
+Thread 7 0.0203098
+Thread 8 0.0198889
+Thread 9 0.0205465
+Thread 10 0.0205197
+Thread 11 0.0192894
+Thread 12 0.0188327
+Thread 13 0.0195925
+Thread 14 0.0182947
+Thread 15 0.0198669
+Thread 16 0.0193447
+Thread 17 0.0205095
+Thread 18 0.0205588
+Thread 19 0.0200472
+Thread 20 0.0184537
+Thread 21 0.0206061
+Thread 22 0.0195752
+Thread 23 0.0196658
+Thread 24 0.0200309
+Thread 25 0.0199153
+Thread 26 0.0193483
+Thread 27 0.0194511
+Thread 28 0.0183985
+Thread 29 0.0176991
+Thread 30 0.0200117
+All Threads 1.37511
+
+Average_time of New-Barr-Log (n,k) --> (32,,70)
+Thread 1 0.13822
+Thread 2 0.140374
+Thread 3 0.13864
+Thread 4 0.138364
+Thread 5 0.139278
+Thread 6 0.137188
+Thread 7 0.140568
+Thread 8 0.137464
+Thread 9 0.138105
+Thread 10 0.138351
+Thread 11 0.138247
+Thread 12 0.141024
+Thread 13 0.138362
+Thread 14 0.138187
+Thread 15 0.140605
+Thread 16 0.140545
+Thread 17 0.138799
+Thread 18 0.137776
+Thread 19 0.137996
+Thread 20 0.139881
+Thread 21 0.137547
+Thread 22 0.137147
+Thread 23 0.140766
+Thread 24 0.139056
+Thread 25 0.140622
+Thread 26 0.137403
+Thread 27 0.138299
+Thread 28 0.136553
+Thread 29 0.138542
+Thread 30 0.138478
+Thread 31 0.139036
+Thread 32 0.140225
+All Threads 9.7161
+
+Average_time of Pthread-Barr-Log (n,k) --> (32,,70)
+Thread 1 0.0184102
+Thread 2 0.018916
+Thread 3 0.0185111
+Thread 4 0.0184774
+Thread 5 0.0190297
+Thread 6 0.0181565
+Thread 7 0.0169789
+Thread 8 0.0178417
+Thread 9 0.0183527
+Thread 10 0.0176821
+Thread 11 0.0190005
+Thread 12 0.0166864
+Thread 13 0.0181773
+Thread 14 0.0190946
+Thread 15 0.0190818
+Thread 16 0.0177504
+Thread 17 0.0179223
+Thread 18 0.0173655
+Thread 19 0.019099
+Thread 20 0.0182885
+Thread 21 0.019213
+Thread 22 0.0177479
+Thread 23 0.0182179
+Thread 24 0.0177509
+Thread 25 0.0190517
+Thread 26 0.0189903
+Thread 27 0.0178389
+Thread 28 0.0187638
+Thread 29 0.0182586
+Thread 30 0.0182094
+Thread 31 0.0194609
+Thread 32 0.0184445
+All Threads 1.28356
+

@@ -1,0 +1,133 @@
+
+
+Test and Set Avg Times(n,k,csseed,remseed) -> (10,1000,20,30)
+
+
+53.1807
+
+
+
+Compare and Swap Avg Times(n,k,csseed,remseed) -> (10,1000,20,30)
+
+
+60.6194
+
+
+
+Test and Set Bounded Avg Times(n,k,csseed,remseed) -> (10,1000,20,30)
+
+
+107.44
+
+
+
+Test and Set Bounded Avg Times(n,k,csseed,remseed) -> (10,2000,20,30)
+
+
+211.348
+
+
+
+Compare and Swap Avg Times(n,k,csseed,remseed) -> (10,2000,20,30)
+
+
+120.898
+
+
+
+Test and Set Avg Times(n,k,csseed,remseed) -> (10,2000,20,30)
+
+
+115.229
+
+
+
+Test and Set Avg Times(n,k,csseed,remseed) -> (10,3000,20,30)
+
+
+179.305
+
+
+
+Compare and Swap Avg Times(n,k,csseed,remseed) -> (10,3000,20,30)
+
+
+185.038
+
+
+
+Test and Set Bounded Avg Times(n,k,csseed,remseed) -> (10,3000,20,30)
+
+
+317.516
+
+
+
+Test and Set Avg Times(n,k,csseed,remseed) -> (10,4000,20,30)
+
+
+234.776
+
+
+
+Compare and Swap Avg Times(n,k,csseed,remseed) -> (10,4000,20,30)
+
+
+240.916
+
+
+
+Test and Set Bounded Avg Times(n,k,csseed,remseed) -> (10,4000,20,30)
+
+
+439.092
+
+
+
+Test and Set Avg Times(n,k,csseed,remseed) -> (10,5000,20,30)
+
+
+276.841
+
+
+
+Compare and Swap Avg Times(n,k,csseed,remseed) -> (10,5000,20,30)
+
+
+305.396
+
+
+
+Test and Set Bounded Avg Times(n,k,csseed,remseed) -> (10,5000,20,30)
+
+
+541.812
+
+
+
+Test and Set Avg Times(n,k,csseed,remseed) -> (10,50,20,30)
+
+
+3.00723
+
+
+
+Test and Set Avg Times(n,k,csseed,remseed) -> (10,50,20,30)
+
+
+2.05785
+
+
+
+Compare and Swap Avg Times(n,k,csseed,remseed) -> (10,50,20,30)
+
+
+2.30131
+
+
+
+Test and Set Bounded Avg Times(n,k,csseed,remseed) -> (10,50,20,30)
+
+
+5.12324
+

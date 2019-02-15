@@ -1,0 +1,6 @@
+Average waiting time for Rate Monotonic algorithm=187.2
+Average turnaround time for Rate Monotonic algorithm=297.6
+
+Average waiting time for Earliest Deadline First algorithm=196.4
+Average turnaround time for Earliest Deadline First algorithm=278
+

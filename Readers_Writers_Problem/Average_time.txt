@@ -1,0 +1,54 @@
+Average_time of RW-Log (nw,nr,kw,kr) --> (10,10,1000,1000)
+3.95149
+
+Average_time of FairRW-Log (nw,nr,kw,kr) --> (10,10,1000,1000)
+9.43805
+
+Average_time of RW-Log (nw,nr,kw,kr) --> (10,10,2000,2000)
+7.84569
+
+Average_time of FairRW-Log (nw,nr,kw,kr) --> (10,10,2000,2000)
+19.0147
+
+Average_time of RW-Log (nw,nr,kw,kr) --> (10,10,3000,3000)
+11.8192
+
+Average_time of FairRW-Log (nw,nr,kw,kr) --> (10,10,3000,3000)
+28.4676
+
+Average_time of RW-Log (nw,nr,kw,kr) --> (10,10,4000,4000)
+15.4087
+
+Average_time of FairRW-Log (nw,nr,kw,kr) --> (10,10,4000,4000)
+36.3319
+
+Average_time of RW-Log (nw,nr,kw,kr) --> (10,10,5000,5000)
+17.9748
+
+Average_time of FairRW-Log (nw,nr,kw,kr) --> (10,10,5000,5000)
+41.3417
+
+Average_time of RW-Log (nw,nr,kw,kr) --> (10,10,6000,6000)
+21.9362
+
+Average_time of FairRW-Log (nw,nr,kw,kr) --> (10,10,6000,6000)
+50.9307
+
+Average_time of RW-Log (nw,nr,kw,kr) --> (10,10,7000,7000)
+26.2292
+
+Average_time of FairRW-Log (nw,nr,kw,kr) --> (10,10,7000,7000)
+58.0329
+
+Average_time of RW-Log (nw,nr,kw,kr) --> (10,10,10000,10000)
+38.054
+
+Average_time of FairRW-Log (nw,nr,kw,kr) --> (10,10,10000,10000)
+92.8898
+
+Average_time of RW-Log (nw,nr,kw,kr) --> (10,10,1000,1000)
+4.05027
+
+Average_time of FairRW-Log (nw,nr,kw,kr) --> (10,10,1000,1000)
+9.50259
+

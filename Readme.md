@@ -1,0 +1,1 @@
+This repository contains assignments related to Multi-Threading done using c++. Please go to respective folders, to get a glimpse of the problem statment and readme.txt. Each repository contains a problem.pdf with the description of problem statment and readme.txt with instructions on how to run the program.
